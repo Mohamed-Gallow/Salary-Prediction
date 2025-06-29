@@ -2,8 +2,6 @@
 
 This project aims to predict salaries based on a variety of features using supervised machine learning techniques. It was developed as a data science exercise in regression modeling, data preprocessing, and model evaluation.
 
-**Notebook**: [`Project_Prediction_Salary.ipynb`](./Project_Prediction_Salary.ipynb)
-
 ---
 
 ## 📂 Project Overview
